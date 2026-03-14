@@ -4,3 +4,4 @@
 terraform.tfvars
 *.tfvars
 !example.tfvars
+gcp-sa-key.json
